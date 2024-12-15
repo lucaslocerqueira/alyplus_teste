@@ -30,7 +30,7 @@ export default function Login() {
         </View>
 
         <View>
-          <Text onPress={() => navigateToRoute("Home")}>
+          <Text onPress={() => navigateToRoute("Register")}>
             Cadastrar-se
           </Text>
         </View>
