@@ -20,7 +20,7 @@ export default function Login() {
     <>
       <View>
         <View>
-          <Text> ALY+ </Text>
+          <Text>ALY+</Text>
         </View>
 
         <View>
